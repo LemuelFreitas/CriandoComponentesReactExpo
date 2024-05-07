@@ -5,7 +5,7 @@ export const styles = StyleSheet.create({
      borderWidth: 1,
      borderColor: '#EBECEE',
      paddingVertical: 20,
-     paddingHorizontal: 40,
+
      borderRadius: 5,
      marginVertical: 10,
     },
@@ -13,7 +13,7 @@ export const styles = StyleSheet.create({
         backgroundColor: '#0056b3'
     },
     buttonText: {
-        color: '#000000',
+    
         fontSize: 16,
         textAlign: 'center',
     }
